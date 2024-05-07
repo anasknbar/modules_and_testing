@@ -8,4 +8,4 @@
 - both function are placed into file called factorial_module.py which in turn inside a folder factorial_module
 - both factorial_module and test directoies have _init _.py 
 - we use pytest library to test the two functions corner cases
-- also we use pytest.raises to test catching error which is one of the pytest library method
+- also we use pytest.raises to test catching error which is one of the pytest library method.

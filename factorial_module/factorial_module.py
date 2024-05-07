@@ -6,6 +6,7 @@ def main():
   pass
 
 ''' factorial function that use for loop to return the factorial number of n'''
+
 def factorial_iterative(n):
   if n < 0 :
     raise ValueError('Enter positive number') 
